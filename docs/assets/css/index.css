@@ -11,7 +11,6 @@ body {
 }
 
 select {
-    max-width: 24%;
     text-overflow: ellipsis;
 }
 
@@ -165,7 +164,7 @@ select {
     outline: none;
     color: white;
     padding-left: 10px;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 #model-select-container select option:not(:checked) {
